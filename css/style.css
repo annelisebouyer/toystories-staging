@@ -7330,7 +7330,7 @@ button.close {
 /* Template Style =========== */
 body {
   font-family:'Roboto Slab',Helvetica,Arial,serif;
-  font-weight: 400;
+  font-weight: 300;
   font-size: 15px;
   line-height: 26px;
   color: black;
@@ -7699,7 +7699,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #fh5co-board .item {
   display: block;
-  background-color:#858b93;
+  background-color:#000;
 
 }
 
